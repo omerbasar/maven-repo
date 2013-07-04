@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>ob</groupId>
+  <groupId>com.digitolio</groupId>
   <artifactId>textfilter</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.1</release>
     <versions>
-      <version>1.0</version>
+      <version>1.1</version>
     </versions>
-    <lastUpdated>20130616233356</lastUpdated>
+    <lastUpdated>20130704090521</lastUpdated>
   </versioning>
 </metadata>
